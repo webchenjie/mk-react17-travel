@@ -23,11 +23,6 @@
 3. 运行项目：npm start
 <br /><br />
 
-## 课程辅导答疑
-- 请在课程问答区提问
-- 或加入课程技术讨论群：903602151，若遇到搜索不到QQ群或加群失败，请联系客服邮箱:kf@imooc.com
-<br /><br />
-
 ## 各章节源码和辅导文档查看指南
 1. postman api 文档，请下载json文件并导入postman，[here](https://git.imooc.com/coding-475/React_TS/src/master/doc/postmanAPI)
 <br /><br />
